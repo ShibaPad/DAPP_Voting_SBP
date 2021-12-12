@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x75e457c1AD98bCC78ae676E9a87A324807475B6b",
+  "SCAN_LINK": "https://bscscan.com/token/0x75e457c1AD98bCC78ae676E9a87A324807475B6b",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "ShibaPad",
+  "SYMBOL": "SBP",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "PancakeSwap",
+  "MARKETPLACE_LINK": "https://pancakeswap.finance/swap?outputCurrency=0x75e457c1AD98bCC78ae676E9a87A324807475B6b",
+  "SHOW_BACKGROUND": true
+}
